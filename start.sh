@@ -1,2 +1,2 @@
-#!/bin/bash
-python underdog_bot.py
+#!/usr/bin/env bash
+python3 underdog_bot.py
